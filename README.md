@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arima+Madurai&color=%231E75AA&size=50&duration=4000&center=true&vCenter=true&width=1000&height=120&lines=Welcome+to+my+Github+Profile!;I'm+Dorrah+Alqwifel;A+Web+Devoloper)](https://git.io/typing-svg)
 
-## <img src="https://github.com/dorrahsq/dorrahsq/blob/master/Assets/Developer.gif" width="45px"> About Me
+## <img src="https://github.com/dorrahsq/dorrahsq/blob/main/Assets/Developer.gif" width="45px"> About Me
 
 - A self-motivated tech enthusiast and full-stack web developer.
 
@@ -11,7 +11,7 @@
 
 <br>
 
-## <img src="https://github.com/dorrahsq/dorrahsq/blob/master/Assets/tools.gif" width="30px"> Languages and Tools
+## <img src="https://github.com/dorrahsq/dorrahsq/blob/main/Assets/tools.gif" width="30px"> Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=square&logo=react)
@@ -34,7 +34,7 @@
 
 <br><br>
 
-## <img src="https://github.com/dorrahsq/dorrahsq/blob/master/Assets/website.gif" width="30px"> My Projects so far
+## <img src="https://github.com/dorrahsq/dorrahsq/blob/main/Assets/website.gif" width="30px"> My Projects so far
 
 <details>
   <summary>My latest projects with Tuwaiq BootCamp 🚧</summary>
@@ -52,4 +52,3 @@
      <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
-center every thinnnnnngggggg
