@@ -1,16 +1,55 @@
-### Hi there 👋
+<span name="top"> </span>
 
-<!--
-**dorrahsq/dorrahsq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arima+Madurai&color=%231E75AA&size=50&duration=4000&center=true&vCenter=true&width=1000&height=120&lines=Welcome+to+my+Github+Profile!;I'm+Dorrah+Alqwifel;A+Web+Devoloper)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+## <img src="https://github.com/dorrahsq/dorrahsq/blob/master/Assets/Developer.gif" width="45px"> About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- A self-motivated tech enthusiast and full-stack web developer.
+
+- I’m currently focusing on: Problem-Solving.
+- Reach me at: [<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dorrah-alqwifel/) <a href="mailto:dorrah.alqwifel@gmail.com" > <img align="top" alt="Gmail" src="https://img.shields.io/badge/Gmail-d62d02?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+
+<br>
+
+## <img src="https://github.com/dorrahsq/dorrahsq/blob/master/Assets/tools.gif" width="30px"> Languages and Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=square&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat&logo=Redux)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)
+![Express.js](https://img.shields.io/badge/-Express-black?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=Firebase)
+![Next.js](https://img.shields.io/badge/-Next-black?style=flat&logo=Next.js)
+![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat&logo=mui)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)
+![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat&logo=heroku)
+![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat&logo=netlify)
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
+![JWT](https://img.shields.io/badge/-JWT-black?style=flat&logo=JSON%20web%20tokens)
+![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat&logo=jquery)
+![NPM](https://img.shields.io/badge/-npm-black?style=flat&logo=npm)
+
+<br><br>
+
+## <img src="https://github.com/dorrahsq/dorrahsq/blob/master/Assets/website.gif" width="30px"> My Projects so far
+
+<details>
+  <summary>My latest projects with Tuwaiq BootCamp 🚧</summary>
+<br>
+  
+  _`You can see and visit the demos easily from here 🤩🔻!`_
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dorrahsq&repo=Portfolio&theme=github_dark)](https://github.com/dorrahsq/Portfolio)
+
+</details>
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<p align="center">
+     <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+
+center every thinnnnnngggggg
