@@ -37,7 +37,7 @@
 ## <img src="https://github.com/dorrahsq/dorrahsq/blob/main/Assets/website.gif" width="30px"> My Projects so far
 
 <details>
-  <summary>My latest projects with Tuwaiq BootCamp 🚧</summary>
+  <summary>My latest projects with Tuwaiq BootCamp </summary>
 <br>
   
   _`You can see and visit the demos easily from here 🤩🔻!`_
