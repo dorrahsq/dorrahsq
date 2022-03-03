@@ -15,6 +15,8 @@
 
 ## <img src="https://github.com/dorrahsq/dorrahsq/blob/main/Assets/tools.gif" width="30px"> Languages and Tools
 
+<div align="center">
+  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat&logo=Redux)
@@ -33,7 +35,8 @@
 ![JWT](https://img.shields.io/badge/-JWT-black?style=flat&logo=JSON%20web%20tokens)
 ![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat&logo=jquery)
 ![NPM](https://img.shields.io/badge/-npm-black?style=flat&logo=npm)
-
+  
+</div>
 <br><br>
 
 ## <img src="https://github.com/dorrahsq/dorrahsq/blob/main/Assets/website.gif" width="30px"> My Projects so far
