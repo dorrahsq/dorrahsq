@@ -13,7 +13,7 @@
 
 <br>
 
-## <img src="https://github.com/dorrahsq/dorrahsq/blob/main/Assets/tools.gif" width="30px"> Languages and Tools
+## <img src="https://github.com/dorrahsq/dorrahsq/blob/main/Assets/tools.gif" width="30px"> Tech Stack
 
 <div align="center">
   
