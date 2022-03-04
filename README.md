@@ -9,8 +9,6 @@
 - I’m currently focusing on: Problem-Solving.
 - Reach me at: [<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-196ab5.svg?logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dorrah-alqwifel/) <a href="mailto:dorrah.alqwifel@gmail.com" > <img align="top" alt="Gmail" src="https://img.shields.io/badge/-Gmail-e01919.svg?logo=gmail&logoColor=white" /> </a>
 
-
-
 <br>
 
 ## <img src="https://github.com/dorrahsq/dorrahsq/blob/main/Assets/tools.gif" width="30px"> Tech Stack
@@ -54,6 +52,5 @@
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <p align="center">
-     <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+     <img src="https://github.com/dorrahsq/dorrahsq/blob/main/Assets/Bottom.gif" alt="Github Stats" />
 </p>
-
