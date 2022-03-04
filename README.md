@@ -52,5 +52,5 @@
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <p align="center">
-     <img src="https://github.com/dorrahsq/dorrahsq/blob/main/Assets/Bottom.gif" alt="Github Stats" />
+     <img src="https://github.com/dorrahsq/dorrahsq/blob/main/Assets/Bottom.svg" alt="Github Stats" />
 </p>
