@@ -49,6 +49,16 @@
 
 </details>
 
+<br><br><br>
+
+---
+
+<div align="center">
+<h3> <img src="https://github.com/dorrahsq/dorrahsq/blob/main/Assets/quote.gif" width="30px"> Random quote <img src="https://github.com/dorrahsq/dorrahsq/blob/main/Assets/quote.gif" width="30px"> </h3>
+  
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=prussian&animation=default&layout=samuel&font=default)
+
+</div>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <p align="center">
