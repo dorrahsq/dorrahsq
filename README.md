@@ -17,6 +17,8 @@
 
 <div align="center">
   
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5&logoColor=red) 
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat&logo=Redux)
@@ -26,8 +28,6 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=Firebase)
 ![Next.js](https://img.shields.io/badge/-Next-black?style=flat&logo=Next.js)
 ![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat&logo=mui)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat&logo=heroku)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat&logo=netlify)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
