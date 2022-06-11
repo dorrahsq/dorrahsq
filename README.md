@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arima+Madurai&color=%231E75AA&size=50&duration=4000&center=true&vCenter=true&width=1000&height=120&lines=Welcome+to+my+Github+Profile!;I'm+Dorrah+Alqwifel;A+Web+Devoloper)](https://git.io/typing-svg)
 
-## <img src="https://github.com/dorrahsq/dorrahsq/blob/main/Assets/Developer.gif" width="45px"> About Me
+## <img src="https://github.com/dorrahsq/dorrahsq/blob/main/Assets/Developer.gif" width="40"> About Me
 
 - A self-motivated tech enthusiast and full-stack web developer.
 
@@ -11,7 +11,7 @@
 
 <br>
 
-## <img src="https://github.com/dorrahsq/dorrahsq/blob/main/Assets/tools.gif" width="30px"> Tech Stack
+## <img src="https://github.com/dorrahsq/dorrahsq/blob/main/Assets/tools.gif" width="30"> Tech Stack
 
 <div align="center">
   
@@ -36,7 +36,7 @@
 </div>
 <br><br>
 
-## <img src="https://github.com/dorrahsq/dorrahsq/blob/main/Assets/website.gif" width="30px"> My Projects so far
+## <img src="https://github.com/dorrahsq/dorrahsq/blob/main/Assets/website.gif" width="30"> My Projects so far
 
 <details>
   <summary>My latest projects with Tuwaiq BootCamp </summary>
@@ -53,7 +53,7 @@
 ---
 
 <div align="center">
-<h3> <img src="https://github.com/dorrahsq/dorrahsq/blob/main/Assets/quote.gif" width="30px"> Random quote <img src="https://github.com/dorrahsq/dorrahsq/blob/main/Assets/quote.gif" width="30px"> </h3>
+<h3> <img src="https://github.com/dorrahsq/dorrahsq/blob/main/Assets/quote.gif" width="30"> Random quote <img src="https://github.com/dorrahsq/dorrahsq/blob/main/Assets/quote.gif" width="30"> </h3>
   
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=prussian&animation=default&layout=samuel&font=default)
 
