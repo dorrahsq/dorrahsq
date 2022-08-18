@@ -1,6 +1,12 @@
 <span name="top"> </span>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arima+Madurai&color=%231E75AA&size=50&duration=4000&center=true&vCenter=true&width=1000&height=120&lines=Welcome+to+my+Github+Profile!;I'm+Dorrah+Alqwifel;A+Web+Devoloper)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arima+Madurai&color=%231E75AA&size=50&duration=4000&center=true&vCenter=true&width=1000&height=120&lines=Welcome+to+my+Github+Profile!)](https://git.io/typing-svg)
+
+
+
+
+
+
 
 ## <img src="https://github.com/dorrahsq/dorrahsq/blob/main/Assets/Developer.gif" width="40"> About Me
 
