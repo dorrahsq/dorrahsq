@@ -12,7 +12,6 @@
 
 - A self-motivated tech enthusiast and full-stack web developer.
 
-- I’m currently focusing on: Problem-Solving.
 - Reach me at: [<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-196ab5.svg?logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dorrah-alqwifel/) <a href="mailto:dorrah.alqwifel@gmail.com" > <img align="top" alt="Gmail" src="https://img.shields.io/badge/-Gmail-e01919.svg?logo=gmail&logoColor=white" /> </a>
 
 <br>
